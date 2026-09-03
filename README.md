@@ -6,6 +6,8 @@ This project is designed to help you practice creating and organizing technical 
 
 You will work with a small documentation set that covers the complete user journey, from getting started and installing the product to using, administering, and troubleshooting it.
 
+Testing for commit amend.
+
 ## Documentation Topics
 
 Explore the documentation using the links below:
