@@ -11,13 +11,13 @@ Check that:
 - Your account is active.
  
 ## Application does not start
- 
+
 Try restarting the application.
 If the problem continues, contact your administrator
 
 
 
-<details>
+<details open>
 <summary>Why can't I push my changes?</summary>
 
 Make sure you:
