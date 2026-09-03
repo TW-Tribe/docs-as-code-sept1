@@ -1,6 +1,8 @@
 Control-M Installation
 You can install any Control-M component on a clean host or upgrade an existing installation to the latest major or fix pack version from the same installation file. There is no need to install a base version and then apply one or more fix pack. For more information, see Control-M Upgrade.
 
+Modified for testing commit.
+
 You can use the version 9.0.22 installation files to install Control-M on a clean account or upgrade an existing installation of Control-M to 9.0.22.
 
 To ensure that the Java library remains up to date, Control-M requires an external Java installation, as described in Control-M External Java Installation.
