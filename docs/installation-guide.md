@@ -22,6 +22,7 @@ Before installing the product, make sure you have:
 ## Verify the installation
  
 Open the application and sign in using your account.
+How to install? Let me know the steps.
  
 ## Next steps
  
