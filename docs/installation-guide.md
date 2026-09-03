@@ -1,10 +1,12 @@
 # Installation
  
 This guide explains how to install the product.
+Add an image here.
  
 ## Prerequisites
  
 Before installing the product, make sure you have:
+Md sy
  
 - Administrator access
 - Internet access
