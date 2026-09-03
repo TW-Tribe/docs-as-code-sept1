@@ -1,5 +1,6 @@
 Control-M Installation
 You can install any Control-M component on a clean host or upgrade an existing installation to the latest major or fix pack version from the same installation file. There is no need to install a base version and then apply one or more fix pack. For more information, see Control-M Upgrade.
+Add an image here.
 
 Modified for testing commit.
 
