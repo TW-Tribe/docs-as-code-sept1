@@ -1,7 +1,6 @@
 # Troubleshooting
  
 Use this guide to resolve common problems.
-Let us test review.
  
 ## Unable to sign in
  
@@ -9,7 +8,7 @@ Check that:
  
 - Your username is correct.
 - Your password is correct.
-- Your account is active.
+- Your account is active. 
 - Review is complete.
  
 ## Application does not start
