@@ -9,6 +9,7 @@ Check that:
 - Your username is correct.
 - Your password is correct.
 - Your account is active.
+- Review is complete.
  
 ## Application does not start
 
