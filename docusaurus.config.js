@@ -80,8 +80,8 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Documentation',
-                to: '/docs/',
+                label: 'Getting Started',
+                to: '/docs/getting-started',
               },
             ],
           },

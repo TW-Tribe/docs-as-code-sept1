@@ -1,4 +1,4 @@
-# User Guide
+# Installation
  
 This guide explains how to install the product.
 Add an image here.
@@ -28,7 +28,7 @@ How to install? Let me know the steps.
  
 ## Next steps
  
-After installation, continue with the guide.
+After installation, continue with the [Getting Started](getting-started.md) guide.
 
 
 > Note
