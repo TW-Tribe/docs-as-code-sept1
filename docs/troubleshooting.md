@@ -38,4 +38,4 @@ Check that:
 - Your password is correct.
 - Your account is active.
 
-
+</details>
