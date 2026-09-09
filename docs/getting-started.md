@@ -3,7 +3,7 @@ You can install any Control-M component on a clean host or upgrade an existing i
 
 Added an image.
 
-Modified for testing commit.
+Modified for testing commit.  
 
 You can use the version 9.0.22 installation files to install Control-M on a clean account or upgrade an existing installation of Control-M to 9.0.22.
 
