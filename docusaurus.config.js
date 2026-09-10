@@ -13,10 +13,10 @@ const config = {
   },
 
   // Update these values when you publish to GitHub Pages.
-  url: 'https://your-username.github.io',
+  url: 'https://TW-tribe.github.io',
   baseUrl: '/docs-as-code-sept1/',
 
-  organizationName: 'your-username',
+  organizationName: 'TW-Tribe',
   projectName: 'docs-as-code-sept1',
 
   onBrokenLinks: 'throw',

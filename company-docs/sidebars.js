@@ -10,6 +10,11 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'User Guide',
+      items: ['getting-started/install', 'getting-started/quickstart'],
+    },
+    {
+      type: 'category',
       label: 'Guides',
       items: ['guides/authentication', 'guides/webhooks'],
     },
